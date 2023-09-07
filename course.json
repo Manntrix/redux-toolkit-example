@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "course": "Java"
+    },
+    {
+      "id": 2,
+      "course": "Angular"
+    },
+    {
+      "id": 3,
+      "course": "Android"
+    },
+    {
+      "id": 4,
+      "course": "Ios"
+    },
+    {
+      "id": 5,
+      "course": "React"
+    },
+    {
+      "id": 6,
+      "course": "Flutter"
+    },
+    {
+      "id": 7,
+      "course": "Data Science"
+    },
+    {
+      "id": 8,
+      "course": "Dot Net"
+    },
+    {
+      "id": 9,
+      "course": "Mongo"
+    },
+    {
+      "id": 10,
+      "course": "Python"
+    }
+  ],
+  "query": [
+    {
+      "name": "Saptarshi Biswas",
+      "number": "1234567890",
+      "query": "Test Query",
+      "query_for": "java",
+      "id": 1
+    }
+  ]
+}
